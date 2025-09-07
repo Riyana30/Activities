@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:text/Mytext.dart';
+
+import 'package:text/mytext.dart';
 
 void main(){
   runApp(MaterialApp(
-    home:MyText() ,
+    home:text() ,
   ));
 }
